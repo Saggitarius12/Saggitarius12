@@ -1,5 +1,5 @@
 -# 💫 About Me:
-I am currently an undergrad at Punjab Engineering College<br>I am currently learning Backend Web development.<br>I love to collaborate on Backend Projects
+I am currently an undergrad at Punjab Engineering College<br>I am currently learning Backend Web development in depth.<br>I love to collaborate on Backend Projects.I have deep interest in Computer Science.
 
 
 ## 🌐 Socials:
